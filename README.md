@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [StudyTime](https://github.com/f-andrei/StudyTime)
 
-- 🌱 I’m currently learning **Scikit-learn, TensorFlow**
+- 🌱 I’m currently learning **Scikit-learn, TensorFlow, Langchain**
 
 - 👯 I’m looking to collaborate on [Tamagotchi - UP](https://github.com/torchelsen/api-tamagochi)
 
